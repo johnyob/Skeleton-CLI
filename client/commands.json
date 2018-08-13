@@ -1,0 +1,10 @@
+[
+  {
+    "Module Identifier": "HelloWorld",
+    "Class Identifier": "HelloWorld",
+    "Conditions": [
+      "hello",
+      "world"
+    ]
+  }
+]
