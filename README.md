@@ -120,7 +120,7 @@ class Open(Command):
 ```
 
 ## Errors
-If you discover an error within this package, please email [me](mailto:alistair.o'brien@ellesmere.com).
+If you discover an error within this package, please email [me](mailto:alistair@duneroot.co.uk).
 
 ## Credits
 - [Alistair O'Brien](https://github.com/johnyob)
